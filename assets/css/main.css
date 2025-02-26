@@ -4971,9 +4971,9 @@ body.is-preload .spotlight.onload-image-fade-in .image img {
 	transition: opacity 0.75s ease-in-out;
 }
 
-.spotlight.onscroll-image-fade-in.is-inactive .image img {
-	opacity: 0;
-}
+/*.spotlight.onscroll-image-fade-in.is-inactive .image img {*/
+/*	opacity: 0;*/
+/*}*/
 
 /* Spotlight (style1) */
 
