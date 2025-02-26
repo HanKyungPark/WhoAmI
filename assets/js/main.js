@@ -37,7 +37,7 @@ document.getElementById('link2').addEventListener('click', function (e) {
     });
 });
 
-// 블로그 플랫폼 클릭 시 inner2로 스크롤
+// 블로그 플랫폼 클릭 시 inner3로 스크롤
 document.getElementById('link3').addEventListener('click', function (e) {
     e.preventDefault(); // 링크의 기본 동작을 막음
     document.querySelector('.inner3').scrollIntoView({
